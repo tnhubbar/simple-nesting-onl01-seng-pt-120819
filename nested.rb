@@ -42,6 +42,7 @@ def alan_kay_is_known_for
 end
 
 def dennis_ritchies_language
+   #operates on the programmer_hash and returns the value of Dennis Ritchie's language as a string 
 	programmer_hash = 
  		{
         :grace_hopper => {
